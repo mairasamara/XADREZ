@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "XADREZ.C": "cpp"
+        "XADREZ.C": "cpp",
+        "stdio.h": "c"
     }
 }
